@@ -1,0 +1,130 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #e6e6e6;
+  font-family: Arial, sans-serif;
+  font-size: 30px;
+
+}
+
+head {
+
+  background-color: lime;
+  
+}
+
+
+h3 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 30px ;
+  font-weight: bold;
+  background-color: #fff685;
+   }
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: blue;
+  font-size: 30px;
+  font-weight:bold;
+  background-color: #fff685
+
+  
+}
+
+  
+p {
+  text-indent: none;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+
+}
+
+#nav-a ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text align: left;
+  list-style-type: none;
+  position:absolute;
+  margin-top:18px;
+  top:15;
+  
+
+}
+
+#nav-b ul li {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text-align: center;
+  list-style-type: none;
+}
+
+#nav-c ul li {
+  padding-bottom: 10px;
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  text-align: right;
+  list-style-type: none;
+  margin-top:38px;
+  position:absolute;
+  top:-10;
+  right:0;
+}
+            
+
+footer {
+  background-color: #fbe3e8;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  transform: scale( .9, 1);
+  color: black
+
+}
+
+main{
+
+    background-color: #d0bdf4;
+  
+}
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#container1 ul li {
+
+
+    list-style-type:none;
+
+    
+    
+}
+
+#container2 ul li {
+
+  list-style-type:none;
+
+}
+
+#huronpic1 ul li {
+
+  list-style-type:none;
+
+}
+
+div {
+
+}

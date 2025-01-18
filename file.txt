@@ -1,0 +1,83 @@
+<a> <img src="http://127.0.0.1:5500/WalksinthePark.html#">
+</a>
+
+
+<a href="#">img src="images/huron_river_cascades.JPG" alt="rivercascades" "width=200"
+
+
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Neighborhoodwalks.html">Nieghborhood Walks</a></li>
+                <li><a href="WalksinthePark.html">Walks in the park</a></li>
+            </ul>
+        </nav>
+
+
+
+
+<tr>
+<td>
+<img src=”http://placehold.it/300x300” alt=” “ border=”0” style=”display:block;”>
+</td>
+<td>
+<img src=”http://placehold.it/100x300” alt=” “ border=”0” style=”display:block;”>
+</td>
+</tr>
+
+
+
+( 
+
+#for images to get rid of lines in between each (rewatch videos in school)
+
+#CSS FOR IMAGES
+
+#div-aligncolumn1 {
+  float:left;
+  width:0%;
+  display:block:inline-block
+}
+
+#CODE FOR IMAGES USING <DIV
+
+<div id="align-column1">
+
+
+)
+
+
+
+#divb
+  margin-top:32px;
+  top:0;
+  right:0
+  position:static;
+  padding-bottom: 10px;
+
+
+
+  #container 1 styling
+
+                      <style>
+                        
+                        img {
+                            
+                            float:left;
+                        
+                        }
+
+                    </style>
+
+
+
+#hyperlink for huron river starter text for me
+<a href="images/huron_river_cascades.JPG">Huron River WaterTrail</a>
+
+
+
+
+
+
+
